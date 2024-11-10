@@ -1,0 +1,7 @@
+G:\Practical\C#\22222\Reverse String\Reverse String\bin\Debug\Reverse String.exe.config
+G:\Practical\C#\22222\Reverse String\Reverse String\bin\Debug\Reverse String.exe
+G:\Practical\C#\22222\Reverse String\Reverse String\bin\Debug\Reverse String.pdb
+G:\Practical\C#\22222\Reverse String\Reverse String\obj\Debug\Reverse String.csproj.AssemblyReference.cache
+G:\Practical\C#\22222\Reverse String\Reverse String\obj\Debug\Reverse String.csproj.CoreCompileInputs.cache
+G:\Practical\C#\22222\Reverse String\Reverse String\obj\Debug\Reverse String.exe
+G:\Practical\C#\22222\Reverse String\Reverse String\obj\Debug\Reverse String.pdb
